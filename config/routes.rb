@@ -1,5 +1,4 @@
 Crumblr::Application.routes.draw do
-  devise_for :users
   resources :posts
   resources :hearts, only: :create
 

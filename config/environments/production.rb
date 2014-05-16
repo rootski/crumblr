@@ -77,7 +77,4 @@ Crumblr::Application.configure do
 
   # Use default logging formatter so that PID and timestamp are not suppressed.
   config.log_formatter = ::Logger::Formatter.new
-
-  #devise setup
-  config.action_mailer.default_url_options = { host: 'http://limitless-springs-8655.herokuapp.com/' }
 end
