@@ -1,5 +1,9 @@
 Crumblr::Application.routes.draw do
+<<<<<<< HEAD
   devise_for :installs
+=======
+  devise_for :users
+>>>>>>> parent of cc6cb1f... Revert 335c54e..7c42a16
   resources :posts
   resources :hearts, only: :create
 

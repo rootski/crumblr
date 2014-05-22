@@ -60,6 +60,9 @@ GEM
     minitest (4.7.5)
     multi_json (1.9.2)
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of cc6cb1f... Revert 335c54e..7c42a16
     orm_adapter (0.5.0)
     pg (0.17.1)
 =======
